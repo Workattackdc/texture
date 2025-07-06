@@ -1,1 +1,1 @@
-New-Item -Path "C:\Users\nikla\Downloads>" -ItemType File
+New-Item -Path "C:\Users\nikla\Downloads" -ItemType File
